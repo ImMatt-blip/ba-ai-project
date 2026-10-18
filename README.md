@@ -48,3 +48,11 @@ ORDER BY avg_mental_health_score DESC
 LIMIT 5
 ```
 **Finding:** Among University students, age 22 had the highest average mental health score at 72.88.
+
+## Dashboard
+
+[View my dashboard](https://public.tableau.com/app/profile/matthew.sabu/viz/MentalHealthScoresbyEducationLevel/Dashboard1#1)
+
+![Dashboard](dashboard.png)
+
+**Finding:** High School students had the highest total mental health score at 440,071.90.
